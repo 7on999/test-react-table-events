@@ -1,0 +1,15 @@
+.title {
+  font-size: 24px;
+  font-weight: 500;
+  color:black;
+  max-width: 40%;
+  overflow-wrap: break-word;
+}
+
+.labelCompleted {
+  text-decoration: line-through;
+}
+
+.span {
+  cursor: pointer;
+}

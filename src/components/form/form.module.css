@@ -1,0 +1,64 @@
+.formWrapper {
+  display: inline-flex;
+  flex-direction: column;
+  gap: 32px;
+  width: 400px;
+}
+
+.taskInputBtn {
+  display: inline-flex;
+  align-items: center;
+  flex-direction: column;
+  gap: 16px;
+  border: 1px solid black;
+  padding: 16px;
+}
+
+.input {
+  width: 100%;
+  padding: 16px;
+  cursor: pointer;
+}
+
+.btn {
+  width:fit-content;
+  padding: 18px 32px;
+  border-radius: 16px;
+  background-color: #3272d9;;
+  cursor: pointer;
+  border: none;
+  font-weight: 500;
+  color:#fcfcfc;
+  transition: all .15s;
+  font-size: 16px;
+  word-break: break-word;
+}
+
+.btn:hover {
+  background-color: black;
+}
+
+.list {
+  border: 1px solid green;
+  display: inline-flex;
+  flex-direction: column;
+  gap: 8px;
+  padding: 8px;
+  overflow-wrap: break-word;
+}
+
+.btnShow {
+  width: 240px
+}
+
+.listElem {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  overflow-wrap: break-word;
+  gap: 32px;
+}
+
+.btnDelete {
+  flex-shrink: 0;
+}
