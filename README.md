@@ -1,6 +1,8 @@
+<a href='https://test-react-table-events.vercel.app/?vercelToolbarCode=X4Tip1p-aT7f5qD' target="_blank" rel="noopener noreferrer nofollow"> Сlick here to see this app </a>
+
+Формулировка задания в виде картинки:
 <img src='./public/task.png'/>
 
-<a href='https://test-react-table-events.vercel.app/?vercelToolbarCode=X4Tip1p-aT7f5qD' target="_blank" rel="noopener noreferrer nofollow"> click here to see this app </a>
 
 # Getting Started with Create React App
 
